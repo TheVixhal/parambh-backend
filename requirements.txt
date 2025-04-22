@@ -5,3 +5,4 @@ werkzeug==2.3.7
 gunicorn
 uv
 uvicorn
+flask_compress
